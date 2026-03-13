@@ -1,8 +1,0 @@
-{
-  "name": "AI Screen Analyst",
-  "description": "Your ultimate AI companion for screen analysis, interactive chat, and location discovery.",
-  "requestFramePermissions": [
-    "display-capture",
-    "geolocation"
-  ]
-}
